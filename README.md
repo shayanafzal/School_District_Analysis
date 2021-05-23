@@ -35,12 +35,22 @@ After the aforementioned grades have been replaced with NaNs, we will repeat the
 
 
 #### Scores by school spending
-![](/images/logo.png)
+##### Spening After
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/Spending%20After.png)
+##### Spening Before
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/Spending%20Before.png)
 
 #### Scores by school size
-![](/images/logo.png)
+##### Size Before
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/Size%20Before.png)
+##### Size After
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/Size%20After.png)
 
 #### Scores by school type
+##### Type Before
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/type%20After.png)
+##### Type After
+![](https://github.com/shayanafzal/School_District_Analysis/blob/f7abffb1a4c08488292d9732cfdde487e41e47eb/Resources/Type%20Before.png)
 ![](/images/logo.png)
 
 ## Summary
