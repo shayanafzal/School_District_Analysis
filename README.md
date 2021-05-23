@@ -26,7 +26,7 @@ After the aforementioned grades have been replaced with NaNs, we will repeat the
 #### Math After
 ![](https://github.com/shayanafzal/School_District_Analysis/blob/1b691c2dc9b9fd13b7add595c584763eeac7b1e2/Resources/Math%20After.png)
 #### Math Before
-![](/images/logo.png)
+![](https://github.com/shayanafzal/School_District_Analysis/blob/a2dbe04ded25f4d47d5de115b0bc78202e733bba/Resources/Math%20Before.png)
 
 #### Reading After
 ![](https://github.com/shayanafzal/School_District_Analysis/blob/1b691c2dc9b9fd13b7add595c584763eeac7b1e2/Resources/Reading%20After.png)
