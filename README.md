@@ -7,10 +7,10 @@ After the aforementioned grades have been replaced with NaNs, we will repeat the
 ## Results
 
 ### District Summary 
-####After
+#### After
 ![](https://github.com/shayanafzal/School_District_Analysis/blob/523d0a81e8bed02f4320d062d1b6ff6d86bc0924/Resources/District%20Summary%20After.png)
 
-####Before
+#### Before
 ![](https://github.com/shayanafzal/School_District_Analysis/blob/1b691c2dc9b9fd13b7add595c584763eeac7b1e2/Resources/District%20Summary%20Before.png)
 
 
