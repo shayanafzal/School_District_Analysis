@@ -49,3 +49,4 @@ Replacing the ninth graders’ math and reading scores with NaN resulted in decr
 
 
 ## Summary
+Replacing the ninth graders’ math and reading scores with NaN resulted in decreasing the Percentage Passing Math, Percentage Passing Reading and the Percentage Overall Passing.
