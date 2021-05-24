@@ -5,7 +5,7 @@ A review of student grades data has shown sign of academic dishonesty as the rea
 
 After the aforementioned grades have been replaced with NaNs, we will repeat the school district analysis and explain the effect of those changes on the overall analysis. 
 
-Full Code can ba accessed [here](http://github.com)
+Full Code can ba accessed [here](https://github.com/shayanafzal/School_District_Analysis/blob/67f3c0a21acad7a3f9409bef068944ffd963f3a6/PyCitySchools_Challenge.ipynb)
 
 ## Results
 
