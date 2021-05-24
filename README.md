@@ -2,7 +2,10 @@
 
 ## Overview
 A review of student grades data has shown sign of academic dishonesty as the reading and the math grades have been altered. We are replaced the reading and math grades for Thomas High School with NaNs. The rest of the data will be kept as is. 
+
 After the aforementioned grades have been replaced with NaNs, we will repeat the school district analysis and explain the effect of those changes on the overall analysis. 
+
+Full Code can ba accessed [here](http://github.com)
 
 ## Results
 
