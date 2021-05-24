@@ -17,6 +17,8 @@ After the aforementioned grades have been replaced with NaNs, we will repeat the
 ### School Summary 
 #### After
 ![](https://github.com/shayanafzal/School_District_Analysis/blob/1b691c2dc9b9fd13b7add595c584763eeac7b1e2/Resources/School%20Summary%20After.png)
+#### Before
+![](https://github.com/shayanafzal/School_District_Analysis/blob/416b0a2d828904f08a963d3295b6ad3001e1bf1e/Resources/School%20Summary%20Before.png)
 
 ### Affect of replacing the ninth graders’ math and reading scores for Thomas High School’s performance relative to the other schools
 ![](/images/logo.png)
